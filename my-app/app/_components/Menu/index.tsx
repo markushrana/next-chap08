@@ -28,6 +28,9 @@ export default function Menu() {
             <li>
             <Link href="/contact">お問い合わせ</Link>
             </li>
+            <li>
+            <Link href="/access">アクセス</Link>
+            </li>
         </ul>
         <button className={cx(styles.button, styles.close)} onClick={close}>
           <Image

@@ -70,7 +70,7 @@ export default async function Home() {
         {/* <img className={styles.bgimg} src="/img-mv.jpg" alt="" /> */}
         <Image
           className={styles.bgimg}
-          src="/img-mv.jpg"
+          src="/mainvisual1.jpg"
           alt=""
           width={4000}
           height={1200}
